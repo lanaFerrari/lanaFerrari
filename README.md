@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    <p> I'm Lana and I write.<p/>
    <p> I used to write professionally as a Creative copywriter/UX Writer and now <span font-weight="bold"> I write code!<span/><p/>
 <div/>
-   
+   ---
 <div>   
    <p>💼 Junior Full-stack developer<p/>
    <p>❤️ Docuseries, Science-fiction, 80s hits, Psychology, dogs, dancing like a freak and Italian food (any food to be honest).<p/>
@@ -28,10 +28,7 @@ Here are some ideas to get you started:
    <p>🔭 I’m working on landing my first gig as a developer.<p/>
    <p>⚡ Fun fact: I make jokes and talk uncontrollably when I'm nervous (Chandler Bing vibes).<p/>
 <div/>
-   
-   
-  ---
-   
+   ---
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
    
