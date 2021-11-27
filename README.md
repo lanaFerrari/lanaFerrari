@@ -22,6 +22,7 @@ Here are some ideas to get you started:
    <p> I used to write professionally as a Creative copywriter/UX Writer and now <span font-weight="bold"> I write code!<span/><p/>
 <div/>
 
+      ---
 <div>   
    <p>💼 Junior Full-stack developer<p/>
    <p>❤️ Docuseries, Science-fiction, 80s hits, Psychology, dogs, dancing like a freak and Italian food (any food to be honest).<p/>
