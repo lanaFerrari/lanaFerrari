@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <p> I'm Lana and I write.<p/>
 <p> I used to write professionally as a Creative copywriter/UX Writer and now <span font-weight="bold"> I write code!<span/><p/>
 
+   
    <p>💼 Junior Full-stack developer<p/>
-      <p>❤️ Docuseries, Science-fiction, 80s hits, Psychology, dogs, dancing like a freak and Italian food (any food to be honest).<p/>
-      <p>🌱 I’m currently learning Python.<p/>
-      <p>🔭 I’m working on landing my first gig as a developer.<p/>
-      <p>⚡ Fun fact: I make jokes and talk uncontrollably when I'm nervous (Chandler Bing vibes).<p/>
+   <p>❤️ Docuseries, Science-fiction, 80s hits, Psychology, dogs, dancing like a freak and Italian food (any food to be honest).<p/>
+   <p>🌱 I’m currently learning Python.<p/>
+   <p>🔭 I’m working on landing my first gig as a developer.<p/>
+   <p>⚡ Fun fact: I make jokes and talk uncontrollably when I'm nervous (Chandler Bing vibes).<p/>
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
