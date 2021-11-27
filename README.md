@@ -1,4 +1,4 @@
-<p align="center"> ### Hello, world! 👋<p/>
+### Hello, world! 👋
 
 <!--
 **lanaFerrari/lanaFerrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p> I'm Lana and I write.<p/>
-<p> I used to write advertising pieces and for webpages (Creative copywriting and UX Writing/Design) and now <span font-type="stronger" > ###I write code!<span/><p/>
+<p> I used to write advertising pieces and for webpages (Creative copywriting and UX Writing/Design) and now <span font-type="strong" > I write code!<span/><p/>
 
 💼 Junior Full-stack developer
 
