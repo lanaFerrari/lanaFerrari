@@ -15,13 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me
+<p> I'm Lana and I write.<p/>
+<p> I used to write advertising pieces and for webpages (Creative copywriting and UX Writing/Design) and now <span font-type="stronger" >I write code!<span/><p/>
 
 💼 Junior Full-stack developer
 
 ❤️ 
 
 💬 Ask me about anything here
+
+
+🌱 I’m currently learning JS, React, C++
+🔭 I’m working on Improving my Problem Solving skills
+🤝 I’m looking to collaborate on Web Application projects
+😒 I’m looking for help with C++
+💬 Ask me about JS, React, Fitness, Books
+📫 How to reach me: valentin.web@outlook.com
+⚡ Fun fact: IDK what am doing 🤷🏻‍♂️
+
+
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
