@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <p> I'm Lana and I write.<p/>
 <p> I used to write advertising pieces and for webpages (Creative copywriting and UX Writing/Design) and now <span font-type="strong" > I write code!<span/><p/>
+   ###I write code
 
 💼 Junior Full-stack developer
 
