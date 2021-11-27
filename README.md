@@ -1,4 +1,5 @@
 ### Hello, world! 👋
+
 ---
 
 <!--
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
    <p> I'm Lana and I write.<p/>
    <p> I used to write professionally as a Creative copywriter/UX Writer and now <span font-weight="bold"> I write code!<span/><p/>
 <div/>
-   ---
+
 <div>   
    <p>💼 Junior Full-stack developer<p/>
    <p>❤️ Docuseries, Science-fiction, 80s hits, Psychology, dogs, dancing like a freak and Italian food (any food to be honest).<p/>
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    ---
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
