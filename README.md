@@ -22,7 +22,8 @@ About me
 ❤️ 
 
 💬 Ask me about anything here
-
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
@@ -32,10 +33,8 @@ About me
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/3df43eb5a6dc932719159aa98d33d082cd1cceb0/icons/file_type_light_prisma.svg" alt="Prisma" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressJs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/50510726/107740654-a8ef1d00-6d31-11eb-8847-516b42837ed3.png" alt="cplusplus" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="40" height="40"/>
 </p>
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
