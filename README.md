@@ -29,10 +29,8 @@ Here are some ideas to get you started:
    <p>🔭 I’m working on landing my first gig as a developer.<p/>
    <p>⚡ Fun fact: I make jokes and talk uncontrollably when I'm nervous (Chandler Bing vibes).<p/>
 <div/>
----
-
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
-   
+   ---
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave) 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    ---
 <p align="left">
