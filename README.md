@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
    <p> I'm Lana and I write.<p/>
-   <p> I used to write professionally as a Creative copywriter/UX Writer and now  __I write code!__><p/>
+   <p> I used to write professionally as a Creative copywriter/UX Writer and now **I write code!>** <p/>
 <div/>
 
 ---
