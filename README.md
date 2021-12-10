@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ---
 <div>   
    <p>💼 Junior Full-stack developer<p/>
-   <p>❤️ Docuseries, Science-fiction, 80s hits, Psychology, dogs, dancing like a freak and Italian food (any food to be honest).<p/>
-   <p>🌱 I’m currently learning Python.<p/>
+   <p>❤️ React and user-driven development.<p/>
+   <p>🌱 I’m currently learning Python and Java.<p/>
    <p>🔭 I’m working on landing my first gig as a developer.<p/>
    <p>⚡ Fun fact: I make jokes and talk uncontrollably when I'm nervous (Chandler Bing vibes).<p/>
 <div/>
