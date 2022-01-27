@@ -1,7 +1,5 @@
 ### Hello, world! 👋
 
----
-
 <!--
 **lanaFerrari/lanaFerrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,20 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-   <p> I'm Lana and I write.<p/>
-   <p> I used to write professionally as a Creative copywriter/UX Writer and now <span>I write code!<span/> <p/>
-<div/>
+# I'm Lana and I write
+I used to write professionally as a Creative copywriter/UX Writer and now I write code!
 
----
-<div>   
+- 
    <p>💼 Junior Full-stack developer<p/>
    <p>❤️ React and user-driven development.<p/>
    <p>🌱 I’m currently learning Python and Java.<p/>
    <p>⚡ Fun fact: I wanna be an astronaut.<p/>
-<div/>
-   
-   ---
+   -
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaFerrari&show_icons=true&theme=synthwave) 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaFerrari&layout=compact)](https://github.com/lanaFerrari/github-readme-stats)
