@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I'm Lana and I write
 I used to write professionally as a Creative copywriter/UX Writer and now I write code!
 
--- 
+--- 
    <p>💼 Junior Full-stack developer<p/>
    <p>❤️ React and user-driven development.<p/>
    <p>🌱 I’m currently learning Python and Java.<p/>
