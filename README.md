@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Lana and I write
+#### I'm Lana and I write
 I used to write professionally as a Creative copywriter/UX Writer and now I write code!
 
-- 
+-- 
    <p>💼 Junior Full-stack developer<p/>
    <p>❤️ React and user-driven development.<p/>
    <p>🌱 I’m currently learning Python and Java.<p/>
    <p>⚡ Fun fact: I wanna be an astronaut.<p/>
-   -
+   
+---
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaFerrari&show_icons=true&theme=synthwave) 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaFerrari&layout=compact)](https://github.com/lanaFerrari/github-readme-stats)
