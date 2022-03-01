@@ -23,7 +23,7 @@ I used to write professionally as a Creative copywriter/UX Writer and now I writ
    <p>❤️ React and user-driven development.<p/>
    <p>🌱 I’m currently learning Python and Java.<p/>
    <p 🔭 Fun fact: I wanna be an astronaut.<p/>
-   <p>⚡Portfolio: https://lanaferrari-portfolio.herokuapp.com/ </p>
+   <p>⚡Portfolio: https://lanaferrari-portfolio.herokuapp.com </p>
    
 ---
    
