@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm Lana and I write.
+#### I'm Lana and I write
 I used to write professionally as a Creative copywriter/UX Writer and now I write code!
 
 --- 
