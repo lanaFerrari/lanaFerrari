@@ -24,7 +24,7 @@ I used to write professionally as a Creative Copywriter/UX Writer and now I writ
    <p>🌱 I’m currently learning Python and Java<p/>
    <p>🔭 Fun fact: I wanna be an astronaut<p/>
    <p>⚡Portfolio: https://lanaferrari-portfolio.herokuapp.com </p>
-   <p>📫 How to reach me: www.linkedin.com/in/lanaferrari
+   <p>📫 Reach me: www.linkedin.com/in/lanaferrari
    
 ---
    
