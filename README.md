@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### I'm Lana and I write.
-I used to write professionally as a Creative Copywriter/UX Writer and now I write code.
+I used to write professionally as a Creative Copywriter/UX Writer and now I write code
 
 --- 
    <p>💼 Junior Full-stack developer<p/>
