@@ -27,7 +27,8 @@ I used to write professionally as a Creative Copywriter/UX Writer and now I writ
    <p>📫 Reach me: www.linkedin.com/in/lanaferrari
    
 ---
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/lanaFerrari/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/lanaFerrari/github-readme-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaFerrari&show_icons=true&theme=synthwave) 
    
    ---
    
@@ -45,8 +46,6 @@ I used to write professionally as a Creative Copywriter/UX Writer and now I writ
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresq" width="40" height="40"/>
 </p>
-
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaFerrari&show_icons=true&theme=synthwave) 
 
 
 
