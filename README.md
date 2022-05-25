@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+
 #### I'm Lana and I write.
-   </p>
 I used to write professionally as a Creative Copywriter/UX Writer and now I write code
 
 --- 
