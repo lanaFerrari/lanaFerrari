@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ <p align="center>
 #### I'm Lana and I write.
 I used to write professionally as a Creative Copywriter/UX Writer and now I write code
+   </p>
 
 --- 
    <p>💼 Junior Full-stack developer<p/>
@@ -27,8 +29,10 @@ I used to write professionally as a Creative Copywriter/UX Writer and now I writ
    <p>📫 Reach me: www.linkedin.com/in/lanaferrari
    
 ---
+   <p align="center>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/lanaFerrari/github-readme-stats)
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaFerrari&show_icons=true&theme=synthwave) 
+  </p>
    
    ---
    
