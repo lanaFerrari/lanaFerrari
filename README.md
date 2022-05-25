@@ -30,8 +30,8 @@ I used to write professionally as a Creative Copywriter/UX Writer and now I writ
    
 ---
 
-  <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/lanaFerrari/github-readme-stats)</p>
-  <p> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaFerrari&show_icons=true&theme=synthwave) </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/lanaFerrari/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaFerrari&show_icons=true&theme=synthwave) 
 
    
    ---
