@@ -34,18 +34,18 @@ I used to write professionally as a Creative Copywriter/UX Writer and now I writ
    ---
    
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/50510726/107741936-20be4700-6d34-11eb-96c3-7322fdb825cd.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/3df43eb5a6dc932719159aa98d33d082cd1cceb0/icons/file_type_light_prisma.svg" alt="Prisma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="45" />
+  <img src="https://user-images.githubusercontent.com/50510726/107741936-20be4700-6d34-11eb-96c3-7322fdb825cd.png" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_prisma.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45" />
 </p>
 
 
