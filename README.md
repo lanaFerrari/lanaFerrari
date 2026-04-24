@@ -33,7 +33,7 @@ I used to write professionally as a Creative Copywriter/UX Writer and now I writ
    
    ---
    
-<p align="center">
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/50510726/107741936-20be4700-6d34-11eb-96c3-7322fdb825cd.png" alt="JavaScript" width="40" height="40"/>
